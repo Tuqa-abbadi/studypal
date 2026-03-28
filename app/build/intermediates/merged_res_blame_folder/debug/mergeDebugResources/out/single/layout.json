@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.studypal.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.example.studypal.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studypal.app-mergeDebugResources-37:/layout/activity_add_task.xml",
+        "source": "com.example.studypal.app-main-40:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.example.studypal.app-mergeDebugResources-37:/layout/activity_progress.xml",
+        "source": "com.example.studypal.app-main-40:/layout/activity_progress.xml"
+    },
+    {
+        "merged": "com.example.studypal.app-mergeDebugResources-37:/layout/item_task.xml",
+        "source": "com.example.studypal.app-main-40:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.example.studypal.app-mergeDebugResources-37:/layout/activity_user_info.xml",
+        "source": "com.example.studypal.app-main-40:/layout/activity_user_info.xml"
+    },
+    {
+        "merged": "com.example.studypal.app-mergeDebugResources-37:/layout/activity_timer.xml",
+        "source": "com.example.studypal.app-main-40:/layout/activity_timer.xml"
+    }
+]

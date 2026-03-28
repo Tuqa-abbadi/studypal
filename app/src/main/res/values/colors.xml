@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_start">#7F5AF0</color>
+    <color name="purple_end">#5B3FD1</color>
+    <color name="bg_light">#F7F7FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#1C1C28</color>
+    <color name="text_gray">#7A7A8C</color>
+    <color name="green_done">#22C55E</color>
+    <color name="red_delete">#EF4444</color>
+    <color name="blue_card">#EEF2FF</color>
+    <color name="divider">#E6E6F0</color>
+</resources>
